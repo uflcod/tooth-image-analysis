@@ -20,3 +20,4 @@ seaborn
 
 # stl libraries
 numpy-stl
+vtkplotlib
