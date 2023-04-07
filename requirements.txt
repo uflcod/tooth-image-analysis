@@ -1,0 +1,22 @@
+pip
+
+# data analysis libraries
+pandas
+numpy
+xlrd
+openpyxl
+
+# jupyter libraries
+jupyter
+jupyterlab
+ipykernel        
+
+# machine learning libraries
+sklearn
+
+# visualiztion libraries
+matplotlib
+seaborn
+
+# stl libraries
+numpy-stl
